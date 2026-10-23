@@ -1,4 +1,9 @@
 ## Hi there 👋
+I am a first year software engineering student at Leeds Beckett university 
+I am originally from North London and I am an Arsenal Fan
+I love doing boxing, not anything serious yet 
+I love watching the UFC 
+
 
 <!--
 **AlandP07/AlandP07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
